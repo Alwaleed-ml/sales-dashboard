@@ -1,0 +1,201 @@
+Order Date,Product Name,Category,Region,Sales,Quantity,Profit
+2022-03-10,Phone,Technology,Central,2088,8,501.62
+2022-08-30,Monitor,Technology,West,1696,8,96.82
+2022-07-19,Monitor,Technology,East,11560,8,1347.7
+2022-04-28,Phone,Technology,Central,82,1,4.62
+2022-10-05,Laptop,Technology,South,5700,4,1665.88
+2022-01-15,Table,Furniture,South,9315,9,1008.55
+2022-04-29,Table,Furniture,South,613,1,94.43
+2022-10-12,Phone,Technology,West,6540,5,524.66
+2022-06-20,Monitor,Technology,West,3205,5,631.05
+2022-09-13,Monitor,Technology,East,4012,4,946.56
+2022-07-26,Monitor,Technology,West,6939,9,1878.27
+2022-12-12,Headphones,Office Supplies,East,8262,9,636.03
+2022-03-25,Monitor,Technology,Central,1022,1,171.01
+2022-06-07,Monitor,Technology,West,3285,9,350.62
+2022-01-07,Table,Furniture,West,7632,9,1037.62
+2022-10-23,Headphones,Office Supplies,South,5139,9,1039.29
+2022-01-03,Monitor,Technology,West,9738,9,987.15
+2022-01-29,Keyboard,Technology,Central,10683,9,1067.87
+2022-09-16,Monitor,Technology,South,5250,7,716.73
+2022-10-03,Headphones,Office Supplies,South,1248,1,313.43
+2022-11-22,Chair,Furniture,West,1863,9,464.4
+2022-05-11,Laptop,Technology,East,190,1,31.02
+2022-05-24,Table,Furniture,Central,2440,10,234.61
+2022-05-29,Phone,Technology,West,1730,5,314.59
+2022-03-28,Printer,Technology,Central,5706,6,993.55
+2022-02-28,Laptop,Technology,Central,4866,6,755.35
+2022-04-07,Printer,Technology,East,4851,9,1427.09
+2022-11-07,Monitor,Technology,East,481,1,71.83
+2022-01-19,Chair,Furniture,South,13167,9,2890.74
+2022-10-06,Table,Furniture,South,4293,9,910.66
+2022-07-22,Headphones,Office Supplies,South,700,5,56.99
+2022-04-19,Laptop,Technology,Central,328,2,41.85
+2022-06-02,Chair,Furniture,South,5880,5,485.67
+2022-10-15,Laptop,Technology,West,9496,8,881.98
+2022-12-27,Laptop,Technology,South,2580,6,192.87
+2022-10-21,Monitor,Technology,West,2056,2,584.91
+2022-07-19,Printer,Technology,South,330,6,67.0
+2022-07-25,Printer,Technology,East,1364,4,360.62
+2022-10-16,Chair,Furniture,Central,3596,4,419.42
+2022-02-19,Monitor,Technology,Central,12843,9,2197.75
+2022-09-30,Table,Furniture,East,204,2,16.98
+2022-03-27,Table,Furniture,Central,7000,10,1235.3
+2022-05-11,Headphones,Office Supplies,Central,1432,2,175.86
+2022-11-06,Keyboard,Technology,West,10863,9,2634.97
+2022-06-14,Laptop,Technology,South,1183,7,315.32
+2022-03-17,Chair,Furniture,Central,2540,10,500.0
+2022-07-13,Phone,Technology,West,2358,2,679.25
+2022-07-06,Printer,Technology,East,4785,5,368.12
+2022-01-24,Printer,Technology,East,1276,1,93.05
+2022-02-28,Laptop,Technology,West,5100,10,791.79
+2022-03-01,Keyboard,Technology,West,5656,4,507.55
+2022-02-22,Monitor,Technology,South,5655,5,1060.61
+2022-12-31,Keyboard,Technology,Central,900,4,191.71
+2022-01-21,Laptop,Technology,East,6250,10,812.89
+2022-07-20,Headphones,Office Supplies,South,296,2,82.39
+2022-11-04,Keyboard,Technology,East,2128,4,524.09
+2022-10-05,Keyboard,Technology,Central,1650,3,305.91
+2022-06-07,Table,Furniture,West,1516,2,386.57
+2022-02-15,Keyboard,Technology,East,13550,10,2857.24
+2022-04-27,Monitor,Technology,Central,624,6,60.34
+2022-10-24,Printer,Technology,West,1408,2,261.97
+2022-10-24,Phone,Technology,West,470,1,118.47
+2022-07-25,Phone,Technology,Central,2296,2,533.34
+2022-01-12,Laptop,Technology,Central,6040,8,1009.94
+2022-03-20,Phone,Technology,Central,1593,9,457.68
+2022-03-30,Chair,Furniture,West,1854,6,234.36
+2022-12-30,Printer,Technology,West,1329,3,247.69
+2022-01-17,Headphones,Office Supplies,West,1920,5,303.67
+2022-03-22,Laptop,Technology,West,1074,2,236.84
+2022-08-17,Monitor,Technology,Central,9024,8,2371.72
+2022-08-21,Laptop,Technology,South,2139,3,244.9
+2022-01-13,Monitor,Technology,East,882,6,172.01
+2022-10-31,Chair,Furniture,West,2750,5,410.99
+2022-07-25,Chair,Furniture,East,3984,8,206.65
+2022-09-28,Headphones,Office Supplies,South,5700,4,624.68
+2022-09-11,Keyboard,Technology,West,10353,7,1389.76
+2022-11-09,Printer,Technology,West,236,2,56.83
+2022-11-27,Headphones,Office Supplies,West,4268,4,546.09
+2022-12-21,Printer,Technology,Central,2864,8,568.92
+2022-03-05,Monitor,Technology,West,1695,5,265.59
+2022-10-19,Laptop,Technology,South,9905,7,2271.1
+2022-06-28,Monitor,Technology,West,1134,1,205.3
+2022-02-16,Printer,Technology,East,1134,2,328.7
+2022-03-13,Phone,Technology,South,3591,7,1023.43
+2022-08-10,Monitor,Technology,West,5488,8,447.72
+2022-09-07,Table,Furniture,East,9030,10,1657.13
+2022-03-02,Printer,Technology,Central,3696,7,877.41
+2022-01-03,Table,Furniture,South,1205,1,69.53
+2022-11-07,Table,Furniture,Central,1329,3,161.07
+2022-10-05,Table,Furniture,Central,6570,10,1572.56
+2022-12-16,Keyboard,Technology,West,6816,6,1177.14
+2022-03-04,Table,Furniture,South,2195,5,554.55
+2022-01-13,Phone,Technology,East,5680,5,1654.22
+2022-11-29,Chair,Furniture,East,6264,6,1209.86
+2022-06-09,Monitor,Technology,Central,6612,6,332.0
+2022-08-15,Keyboard,Technology,Central,5796,9,868.53
+2022-12-16,Keyboard,Technology,East,9422,7,1371.81
+2022-10-13,Laptop,Technology,Central,13210,10,3045.86
+2022-09-19,Table,Furniture,South,11250,9,1712.72
+2022-12-31,Printer,Technology,West,9400,10,2041.77
+2022-04-12,Headphones,Office Supplies,East,9863,7,1921.67
+2022-07-27,Headphones,Office Supplies,East,4116,4,864.73
+2022-11-29,Printer,Technology,East,2559,3,533.38
+2022-07-23,Printer,Technology,West,1700,10,89.3
+2022-05-16,Monitor,Technology,Central,2648,8,683.83
+2022-09-06,Chair,Furniture,South,1065,1,125.36
+2022-02-20,Monitor,Technology,East,1494,2,320.03
+2022-01-11,Chair,Furniture,West,2868,2,431.58
+2022-12-19,Printer,Technology,Central,4023,9,410.05
+2022-06-20,Printer,Technology,East,1557,9,334.28
+2022-08-28,Laptop,Technology,West,5652,9,663.77
+2022-11-09,Table,Furniture,South,8183,7,761.76
+2022-05-13,Headphones,Office Supplies,West,5490,10,1244.43
+2022-12-05,Laptop,Technology,South,4676,7,1324.62
+2022-05-08,Printer,Technology,West,504,3,134.95
+2022-10-24,Keyboard,Technology,West,6305,5,1039.37
+2022-03-25,Chair,Furniture,West,11880,8,1666.44
+2022-07-25,Table,Furniture,East,5960,4,1368.53
+2022-06-06,Phone,Technology,East,3402,7,443.43
+2022-02-21,Chair,Furniture,East,1330,10,74.24
+2022-04-21,Laptop,Technology,South,13149,9,3336.26
+2022-11-10,Keyboard,Technology,Central,6885,5,547.47
+2022-12-21,Chair,Furniture,East,3318,7,359.35
+2022-08-19,Monitor,Technology,West,1976,4,503.95
+2022-08-25,Monitor,Technology,West,4725,5,626.2
+2022-10-31,Phone,Technology,West,181,1,9.75
+2022-01-03,Keyboard,Technology,Central,8040,10,979.3
+2022-04-11,Monitor,Technology,West,4029,3,1000.94
+2022-01-16,Laptop,Technology,South,2853,9,183.39
+2022-07-14,Printer,Technology,West,1456,8,310.18
+2022-06-05,Laptop,Technology,East,1119,1,202.79
+2022-03-08,Laptop,Technology,Central,1820,7,132.42
+2022-01-15,Keyboard,Technology,West,2364,4,510.04
+2022-07-19,Headphones,Office Supplies,Central,2208,4,245.88
+2022-10-29,Chair,Furniture,Central,8970,10,2013.89
+2022-11-23,Laptop,Technology,Central,7980,7,1472.5
+2022-12-31,Monitor,Technology,East,7405,5,1746.25
+2022-02-07,Printer,Technology,West,651,3,42.1
+2022-04-15,Monitor,Technology,East,256,2,71.19
+2022-09-20,Keyboard,Technology,Central,1338,6,80.32
+2022-09-30,Laptop,Technology,South,4140,3,1133.75
+2022-12-29,Keyboard,Technology,East,5470,5,397.09
+2022-06-16,Phone,Technology,Central,630,7,40.66
+2022-05-14,Headphones,Office Supplies,West,3871,7,974.45
+2022-12-14,Printer,Technology,East,3560,4,625.44
+2022-04-16,Headphones,Office Supplies,Central,7441,7,2151.0
+2022-10-27,Keyboard,Technology,East,2280,8,412.54
+2022-10-14,Laptop,Technology,Central,1364,4,194.49
+2022-09-24,Headphones,Office Supplies,East,5148,6,420.03
+2022-02-03,Laptop,Technology,Central,12177,9,1563.68
+2022-06-02,Headphones,Office Supplies,Central,3468,6,822.55
+2022-09-24,Laptop,Technology,East,1944,6,541.61
+2022-06-16,Headphones,Office Supplies,East,4725,5,802.89
+2022-07-06,Monitor,Technology,East,1205,1,100.79
+2022-09-26,Keyboard,Technology,Central,5220,10,1235.38
+2022-07-05,Headphones,Office Supplies,South,5192,8,1036.14
+2022-06-24,Chair,Furniture,East,1615,5,358.22
+2022-10-16,Chair,Furniture,East,2786,7,793.45
+2022-11-14,Laptop,Technology,East,5685,5,1299.96
+2022-04-15,Printer,Technology,East,13140,10,2386.15
+2022-02-10,Phone,Technology,West,4011,3,713.43
+2022-08-10,Laptop,Technology,Central,5080,5,533.32
+2022-04-13,Keyboard,Technology,West,7128,8,1560.32
+2022-10-06,Table,Furniture,South,840,5,127.54
+2022-01-05,Monitor,Technology,South,1232,7,251.28
+2022-09-19,Monitor,Technology,East,5920,8,305.47
+2022-06-03,Laptop,Technology,East,5751,9,1563.11
+2022-06-11,Printer,Technology,South,10170,9,1546.6
+2022-11-19,Printer,Technology,South,1914,3,337.97
+2022-10-28,Chair,Furniture,West,537,1,160.37
+2022-12-05,Laptop,Technology,Central,6167,7,742.44
+2022-12-04,Laptop,Technology,East,204,1,29.75
+2022-08-26,Printer,Technology,Central,10576,8,2561.07
+2022-07-18,Keyboard,Technology,East,6060,6,522.21
+2022-03-17,Laptop,Technology,West,3312,6,875.93
+2022-10-29,Printer,Technology,South,4932,9,600.81
+2022-08-04,Printer,Technology,South,5656,8,587.47
+2022-09-09,Monitor,Technology,South,414,2,34.1
+2022-03-18,Table,Furniture,East,1155,5,102.71
+2022-02-20,Monitor,Technology,West,52,2,8.16
+2022-01-27,Table,Furniture,South,730,1,209.16
+2022-02-22,Monitor,Technology,East,2815,5,266.75
+2022-12-27,Laptop,Technology,West,2812,2,749.68
+2022-03-05,Keyboard,Technology,Central,12744,9,2223.7
+2022-07-21,Phone,Technology,South,708,3,103.79
+2022-12-26,Table,Furniture,West,5430,5,837.04
+2022-10-02,Printer,Technology,South,11853,9,3298.22
+2022-11-16,Headphones,Office Supplies,South,230,1,55.07
+2022-12-03,Headphones,Office Supplies,Central,1215,9,250.73
+2022-06-03,Phone,Technology,West,5300,5,623.2
+2022-05-07,Monitor,Technology,West,1430,5,141.32
+2022-10-15,Laptop,Technology,West,4335,5,519.97
+2022-12-23,Printer,Technology,Central,4104,4,716.93
+2022-11-03,Keyboard,Technology,West,2139,3,430.87
+2022-04-03,Keyboard,Technology,West,1251,9,164.51
+2022-12-20,Chair,Furniture,West,6650,10,1153.33
+2022-06-18,Phone,Technology,West,1530,5,162.57
+2022-11-22,Laptop,Technology,West,2844,2,303.06
+2022-04-13,Printer,Technology,South,691,1,168.22
+2022-06-06,Table,Furniture,East,2395,5,527.31
